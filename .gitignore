@@ -2,7 +2,6 @@
 cypress/downloads
 cypress/screenshots
 cypress/videos/.*mp4
-cypress/support
 *.log
 *.xml
 *.html
